@@ -283,7 +283,7 @@ export default function PortfolioOne() {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
               <a
-                href="mailto:yahsanhafeez883@gmail.com?subject=ProjectDiscussion&body=I want to contact you"
+                href="mailto:ahsanhafeez883@gmail.com?subject=ProjectDiscussion&body=I want to contact you"
                 className="group bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all duration-300 shadow-2xl hover:shadow-orange-500/25 hover:scale-105 flex items-center space-x-3"
               >
                 <Send className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
@@ -655,7 +655,7 @@ export default function PortfolioOne() {
 
                 <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-8">
                   <a
-                    href={""}
+                    href="mailto:yahsanhafeez883@gmail.com?subject=ProjectDiscussion&body=I want to contact you"
                     className="group bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all duration-300 shadow-2xl hover:shadow-orange-500/25 hover:scale-105 flex items-center space-x-3"
                   >
                     <Send className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
