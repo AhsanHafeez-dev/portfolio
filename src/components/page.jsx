@@ -547,7 +547,7 @@ export default function PortfolioOne() {
                         className="flex items-center space-x-2 bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white px-4 py-2 rounded-lg font-semibold transition-all duration-300 hover:scale-105"
                       >
                         <Eye className="w-4 h-4" />
-                        <span>Project Video</span>
+                        <span>Live Url</span>
                         <ExternalLink className="w-4 h-4" />
                       </a>
                       <a
