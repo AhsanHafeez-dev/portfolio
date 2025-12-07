@@ -114,6 +114,31 @@ export default function PortfolioOne() {
       featured: true,
       category: "AI/ML",
     },
+
+    {
+      id: 5,
+      title: "Health Care App",
+      description:
+        "An intelligent chatbot powered by OpenAI's GPT, featuring natural language processing and context-aware conversations.",
+      image: "https://res.cloudinary.com/dpsqzixmj/image/upload/c_crop,w_1080,h_608,ar_16:9/v1765124077/title_w4xblq.jpg",
+      technologies: ["Python", "FastAPI", "OpenAI API", "React", "WebSocket"],
+      liveUrl: "https://junaidirfan836-my-chatbot-chatbot-frontend-w4usr1.streamlit.app/",
+      githubUrl: "https://github.com/AhsanHafeez-dev/research-paper-explainer/",
+      featured: true,
+      category: "AI/ML",
+    },
+    {
+      id: 5,
+      title: "Geometry Wars Game",
+      description:
+        "An intelligent chatbot powered by OpenAI's GPT, featuring natural language processing and context-aware conversations.",
+      image: "https://res.cloudinary.com/dpsqzixmj/image/upload/v1765125510/Screenshot_2025-12-07_213619_ckyldp.png",
+      technologies: ["Python", "FastAPI", "OpenAI API", "React", "WebSocket"],
+      liveUrl: "https://junaidirfan836-my-chatbot-chatbot-frontend-w4usr1.streamlit.app/",
+      githubUrl: "https://github.com/AhsanHafeez-dev/research-paper-explainer/",
+      featured: true,
+      category: "AI/ML",
+    },
   ]
 
   const skills = {
